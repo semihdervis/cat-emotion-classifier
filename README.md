@@ -50,6 +50,8 @@ This is a Streamlit application that classifies the emotions of cats from upload
 
 3. Upload an image of a cat and click the "Classify Image" button to see the classification results.
 
+    **Note:** The first prediction may take some time as the Vision Transformer (ViT) model needs to be loaded from Hugging Face.
+
 ## Model
 
 The application uses a Vision Transformer (ViT) model fine-tuned for cat emotion classification, available on Hugging Face as [`semih-dervis/cat-emotion-classifier`](https://huggingface.co/semihdervis/cat-emotion-classifier).
