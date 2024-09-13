@@ -4,11 +4,11 @@ This is a Streamlit application that classifies the emotions of cats from upload
 
 ## Examples
 
-<img src="assets/images/angry_cat_ss.png" alt="Angry Cat" width="300"/>
+<img src="assets/images/angry_cat_ss.png" alt="Angry Cat" width="700"/>
 
-<img src="assets/images/scared_cat_ss.png" alt="Scared Cat" width="300"/>
+<img src="assets/images/scared_cat_ss.png" alt="Scared Cat" width="700"/>
 
-<img src="assets/images/surprised_cat_ss.png" alt="Surprised Cat" width="300"/>
+<img src="assets/images/surprised_cat_ss.png" alt="Surprised Cat" width="700"/>
 
 ## Features
 
