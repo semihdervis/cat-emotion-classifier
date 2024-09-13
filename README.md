@@ -2,6 +2,8 @@
 
 This is a Streamlit application that classifies the emotions of cats from uploaded images using a Vision Transformer (ViT) model.
 
+You can try the application [here](https://cat-emotion-classifier.streamlit.app/).
+
 ## Examples
 
 <img src="assets/images/angry_cat_ss.png" alt="Angry Cat" width="700"/>
